@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GTechMason
 - 👀 I’m interested in ecopreneurs, human-tech advancement, and entertainment opportunities.
 - 🌱 I’m always advancing my QA Engineering and coding skills. Currently in a Full Stack Developer course via Mimo.app
-- 📫 You can reach me via LinkedIn at [[https://www.linkedin.com/in/grahamtmason](url)
+- 📫 You can reach me via LinkedIn at [https://www.linkedin.com/in/grahamtmason](url)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have worked in the Film and TV Industry for 15 years.
