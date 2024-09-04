@@ -3,4 +3,4 @@
 - 🌱 I’m always advancing my QA Engineering and coding skills. Currently in a Full Stack Developer course via Mimo.app
 - 📫 You can reach me via LinkedIn at https://www.linkedin.com/in/grahamtmason
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have worked in the Film and TV Industry for 15 years.
+- ⚡ Fun fact: I enjoy repairing small electronics. Luckily I have two young kids that give me plenty of practice by frequently breaking a bunch of their toys.
